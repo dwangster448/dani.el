@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Your Medford, Massachusets 02155</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,6 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+I'm a 1st-year PhD student in the Tufts University Computer Sciences department working with [Dr. Jaylin Herskovitz](https://jayl.in/) and her TADA Lab⁠. I study human-computer interaction (HCI), particularly extended reality (AR/VR/XR), accessibility (a11y), and AI-powered interactive systems to improve how people with disabilities access novel technology.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
