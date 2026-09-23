@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dwang21.io/sitemap.xml
+Sitemap: https://dwangster448.github.io/sitemap.xml
